@@ -1,0 +1,43 @@
+.blossom-admin-cursor {
+    cursor: pointer;
+}
+
+.card-body header {
+    padding: 0px !important;
+}
+
+.sidebar {
+    margin-top: 0px !important;
+}
+
+.main-sidebar {
+    min-height: calc(100vh - (3.5rem + 1px)) !important;
+}
+
+.content-wrapper.kanban {
+    height: auto;
+}
+
+.users-list>li img {
+    border-radius: 50%;
+    height: 114px;
+    max-width: 100%;
+}
+
+.products-list .product-info {
+    margin-left: 15px;
+}
+
+
+
+
+.dropdown-demo .p-dropdown {
+    width: 14rem;
+}
+
+.dropdown-demo .country-item-value img.flag {
+    width: 17px;
+}
+
+
+
